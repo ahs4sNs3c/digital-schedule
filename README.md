@@ -1,4 +1,4 @@
-# :date: Cambridge Digital Scheduler - by LadyKillas, VinUniversity
+# :date: VinUni Digital Scheduler
 
 ![image](https://user-images.githubusercontent.com/84661482/119254719-26081900-bbe2-11eb-9ffb-31e31866a999.png)
 
